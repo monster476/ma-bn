@@ -1,0 +1,5 @@
+defaults:
+  - medhard
+  - _self_
+
+task_name: quadruped_fetch
