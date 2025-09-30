@@ -19,7 +19,7 @@
 
 ## 📰 News
 
-- [2025-10] 🎉 Our arXiv paper [MA-BN](https://arxiv.org/abs/0000.00000) is released!
+- [2025-9] 🎉 Our arXiv paper [MA-BN](https://arxiv.org/abs/2509.23750) is released!
 
 ## <img id="painting_icon" width="3%" src="https://cdn-icons-png.flaticon.com/256/2435/2435606.png"> About
 
@@ -37,5 +37,13 @@ For code execution and reproducibility, please refer to the CrossQ and drqv2 dir
 
 If you would like to cite our work, please use the following format:
 ```bibtex
-
+@misc{wang2025investigationbatchnormalizationoffpolicy,
+      title={An Investigation of Batch Normalization in Off-Policy Actor-Critic Algorithms}, 
+      author={Li Wang and Sudun and Xingjian Zhang and Wenjun Wu and Lei Huang},
+      year={2025},
+      eprint={2509.23750},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2509.23750}, 
+}
 ```
