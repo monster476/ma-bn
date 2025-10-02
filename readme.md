@@ -37,13 +37,10 @@ For code execution and reproducibility, please refer to the CrossQ and drqv2 dir
 
 If you would like to cite our work, please use the following format:
 ```bibtex
-@misc{wang2025investigationbatchnormalizationoffpolicy,
-      title={An Investigation of Batch Normalization in Off-Policy Actor-Critic Algorithms}, 
-      author={Li Wang and Sudun and Xingjian Zhang and Wenjun Wu and Lei Huang},
-      year={2025},
-      eprint={2509.23750},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2509.23750}, 
+@article{wang2025investigation,
+  title={An Investigation of Batch Normalization in Off-Policy Actor-Critic Algorithms},
+  author={Wang, Li and Zhang, Xingjian and Wu, Wenjun and Huang, Lei and others},
+  journal={arXiv preprint arXiv:2509.23750},
+  year={2025}
 }
 ```
